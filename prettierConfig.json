@@ -1,0 +1,59 @@
+"window.zoomLevel": -1,
+"prettier.arrowParens": "avoid",
+"prettier.endOfLine": "auto",
+"prettier.useTabs": true,
+
+//* Standart Prettier */
+
+// "editor.defaultFormatter": "esbenp.prettier-vscode",
+// "[javascript]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+// },
+
+// "editor.linkedEditing": true,
+// "liveServer.settings.donotShowInfoMsg": true,
+// "editor.formatOnSave": true,
+// "prettier.jsxSingleQuote": true,
+// "editor.inlineSuggest.enabled": true,
+// "git.autofetch": true,
+// "bracketPairColorizer.depreciation-notice": false,
+// "[html]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+// },
+
+// "[jsonc]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+// },
+// "[css]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+// },
+
+//* Prettier ESlint */
+
+"editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+"[javascript]": {
+	"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+},
+
+"editor.linkedEditing": true,
+"liveServer.settings.donotShowInfoMsg": true,
+"editor.formatOnSave": true,
+"prettier.jsxSingleQuote": true,
+"editor.inlineSuggest.enabled": true,
+"git.autofetch": true,
+"bracketPairColorizer.depreciation-notice": false,
+"[html]": {
+	"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+},
+
+"[jsonc]": {
+	"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+},
+"[css]": {
+	"editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+},
+"editor.unicodeHighlight.ambiguousCharacters": false,
+"php.validate.executablePath": "",
+
+"redhat.telemetry.enabled": true
+
